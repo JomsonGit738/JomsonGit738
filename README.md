@@ -4,6 +4,7 @@
 - 📌 Take a glimpse at my carefully curated End-User projects – a testament to my dedication and skills.
 - 💪 My primary areas of expertise and focus revolve around ReactJS and Angular.
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <!---
 JomsonGit738/JomsonGit738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
